@@ -133,9 +133,9 @@ $(document).ready(function () {
 	});
 
 	function slide() {
-		$('.slideshow').animate({ backgroundPosition: '-=2px' }, 90, 'linear', slide);            
+		$('.slideshow').animate({ backgroundPosition: '-=2000px' }, 90000, 'linear', slide);
 	}
-	slide(); 
+	slide();
 
 
 	// Shrinking Header...
@@ -169,7 +169,7 @@ $(document).ready(function () {
 			whatTextFlipper = setInterval(function () { });
 			InitiateCycler(".whatText", ".whatButton", whatTextFlipper);
 		}
-	
+
 		if ($("#whyFlipButtons").visible() && whyTextFlipper == null) {
 			whyTextFlipper = setInterval(function () { });
 			InitiateCycler(".whyText", ".whyButton", whyTextFlipper);
@@ -186,7 +186,7 @@ $(document).ready(function () {
 		$('html, body').stop().animate({
 			'scrollTop': $target.offset().top - 60
 		}, 900, 'swing');
-	});	
+	});
 
 	//staff
 	$.each(Staff, function (x, person) {
@@ -199,7 +199,7 @@ $(document).ready(function () {
 	        staffTemplate = $("#staffTemplate").html();
 	        template = staffTemplate.format("", person.Group, person.Image, person.Name, person.Title);
 	    }
-		
+
 		switch(person.Group)
 		{
 			case "leadership":
@@ -224,7 +224,7 @@ $(document).ready(function () {
 	})
 
 
-	
+
 
 	//Tool tip
 	$("a[data-toggle='tooltip']").tooltip()
@@ -240,6 +240,6 @@ $(document).ready(function () {
 
 	$('[data-toggle="popover"]').popover()
 
-	
-	
+
+
 });
