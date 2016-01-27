@@ -29,6 +29,7 @@
     };
 
     google.maps.event.addDomListener(window, 'resize', recenter);
+    google.maps.event.addDomListener(window, 'orientationchange', recenter);
   }
 
   google.maps.event.addDomListener(window, 'load', initializeMap);
