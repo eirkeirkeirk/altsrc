@@ -141,8 +141,8 @@ $(document).ready(function () {
 	// Shrinking Header...
 
 	$(window).load(function () {
-		$("#header").removeClass("large");
-		$("#header").addClass("large");
+		// $("#header").removeClass("large");
+		// $("#header").addClass("large");
 		//flippers
 		if ($(".whatButtons").visible() && whatTextFlipper == null) {
 			whatTextFlipper = setInterval(function () { });
