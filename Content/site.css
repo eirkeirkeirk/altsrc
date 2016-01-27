@@ -78,7 +78,7 @@ img {-moz-transform: translate3d(0, 0, 0);-ms-transform: translate3d(0, 0, 0);-o
 .menuBarTop {top:0;bottom:14px;-moz-transition:bottom .1s ease .1s, transform .1s ease; -o-transition:bottom .1s ease .1s, transform .1s ease; -webkit-transition:bottom .1s ease .1s, transform .1s ease; transition:bottom .1s ease .1s, transform .1s ease;}
 .mobileIcon.active .menuBarTop {top:0;bottom:0;-moz-transform:rotate(-45deg); -ms-transform:rotate(-45deg); -o-transform:rotate(-45deg); -webkit-transform:rotate(-45deg); transform:rotate(-45deg);-moz-transition:bottom .1s ease, transform .1s ease .1s; -o-transition:bottom .1s ease, transform .1s ease .1s; -webkit-transition:bottom .1s ease, transform .1s ease .1s; transition:bottom .1s ease, transform .1s ease .1s;}
 .menuBarMiddle {top:0;bottom:0;left:0;-moz-transition:height .1s ease; -o-transition:height .1s ease; -webkit-transition:height .1s ease; transition:height .1s ease;}
-.mobileIcon.active .menuBarMiddle {top:0;bottom:0;height:0; -moz-transition:height.1s ease; -o-transition:height.1s ease; -webkit-transition:height.2s ease .3s; transition:height.1s ease;} 
+.mobileIcon.active .menuBarMiddle {top:0;bottom:0;height:0; -moz-transition:height.1s ease; -o-transition:height.1s ease; -webkit-transition:height.2s ease .3s; transition:height.1s ease;}
 .menuBarBottom {top:15px;bottom:0;-moz-transition:top .1s ease .1s, transform .1s ease; -o-transition:top .1s ease .1s, transform .1s ease; -webkit-transition:top .1s ease .1s, transform .1s ease; transition:top .1s ease .1s, transform .1s ease;}
 .mobileIcon.active .menuBarBottom {top:0;bottom:0;-moz-transform:rotate(45deg); -ms-transform:rotate(45deg); -o-transform:rotate(45deg); -webkit-transform:rotate(45deg); transform:rotate(45deg);-moz-transition:top .1s ease, transform .1s ease .1s; -o-transition:top .1s ease, transform .1s ease .1s; -webkit-transition:top .1s ease, transform .1s ease .1s; transition:top .1s ease, transform .1s ease .1s;}
 .navMenuMobile {display: none;height: auto;width: 100%;text-align: left;line-height:2.2;}
@@ -86,8 +86,8 @@ img {-moz-transform: translate3d(0, 0, 0);-ms-transform: translate3d(0, 0, 0);-o
 .navMenuMoble li a{color: #474747;}
 .navMenuMobile li a:hover {color: #474747;}
 
-         
-/* ------------------ Slideshow ------------------  */ 
+
+/* ------------------ Slideshow ------------------  */
 .slideshow {min-height:365px;min-width:100%;background-color: #027c94;background: url(Images/slide2.jpg);background-size:auto 100%;text-align:center;margin-top:100px;	}
 .buttonTalksSlideBox {padding-top: 123px;color: #FFFFFF;margin:0 auto 0 auto;width:400px;text-align:center;}
 .slideText {font-size: 2em;padding:10px;font-weight: 100;background-color:#fff;color:#027c94;}
@@ -217,8 +217,8 @@ img {-moz-transform: translate3d(0, 0, 0);-ms-transform: translate3d(0, 0, 0);-o
 .solutionHeadline {font-size: 1.5em;font-weight: 100;line-height: 1.4;}
 .bottomNoFloat {clear: both;}
 .solutionsContainer{
-    width:100%; 
-    position:relative; 
+    width:100%;
+    position:relative;
     margin-top:10px;
     overflow:hidden;
     border-top:1px solid #E4E4E4;
@@ -226,8 +226,8 @@ img {-moz-transform: translate3d(0, 0, 0);-ms-transform: translate3d(0, 0, 0);-o
     background-color: #FCFCFC;
 }
 .solutionSlide{
-    position:relative; 
-    top:0; 
+    position:relative;
+    top:0;
     left:-100% ;
     margin:auto;
     max-width:792px;
@@ -278,9 +278,33 @@ img {-moz-transform: translate3d(0, 0, 0);-ms-transform: translate3d(0, 0, 0);-o
 
 /* ------------------ About ------------------  */
 #teams{min-height:470px;clear: both}
-.teamTabs {margin: 20px auto 0 auto;max-width: 668px;height: 100%;overflow:hidden;}
+.teamTabs {
+    margin: 20px auto 0 auto;
+    max-width: 768px;
+    height: 100%;
+    overflow:hidden;
+    text-align: center;
+}
+.teamTabs:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+.navBox {
+    /*margin: 0px auto;*/
+    /*max-width: 300px;*/
+    /*padding: auto;*/
+    /*display: inline;*/
+    /*text-align: center;*/
+}
+.navBox:after {
+  content: "";
+  display: table;
+  clear: both;
+}
 .aboutButton {
 	float: left;
+    /*display: inline;*/
 	border-left: thin solid #a9a9a9;
 	border-top: thin solid #a9a9a9;
 	border-right: thin solid #a9a9a9;
@@ -532,9 +556,9 @@ img {-moz-transform: translate3d(0, 0, 0);-ms-transform: translate3d(0, 0, 0);-o
     position:absolute;
     bottom:27px;
     left:-23px;
-    padding:10px; 
-    width:160px; 
-    background-color:#FDFDFD; 
+    padding:10px;
+    width:160px;
+    background-color:#FDFDFD;
     border:1px solid #CDCDCD;
     display:none;
 }
@@ -695,7 +719,7 @@ img {-moz-transform: translate3d(0, 0, 0);-ms-transform: translate3d(0, 0, 0);-o
 .abCenterBlue{position:absolute; left:0; right:0; margin:auto; background-color:#027c94;}
 #plusVT{height:25px;width:6px;}
 #plusHZ{height:6px; width:25px;top:0;bottom:0;}
-#calBox{border:1px solid #027c94; height:25px; width:25px;position:relative;text-align:center;color:#027c94; font-size:14px; font-weight:700;line-height:30px;}	
+#calBox{border:1px solid #027c94; height:25px; width:25px;position:relative;text-align:center;color:#027c94; font-size:14px; font-weight:700;line-height:30px;}
 #calTop{width:25px; height:6px; top:0;}
 #dollar{font-size:30px;color:#027c94; font-weight:700; line-height:25px;}
 #screenEdge{width:27px; height:15px;border:2px solid #027c94;position:relative;margin-top:2px;}
