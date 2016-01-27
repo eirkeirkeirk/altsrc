@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+	<META http-equiv="X-UA-Compatible" content="IE=10">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+	<meta name="description" content="AltSource is a driven software development team focused on delivering custom business applications of exceptional quality across any enterprise."/>
+	<meta name="keywords" content="Software, Portland, Portland Oregon, Custom Software, Enterprise Software, Software Solutions, Software Development Services; Custom Software Development Services; Custom Software Programming Services, Programming Services" />
+	
+    <title>AltSource Careers | Enterprise Software Architect</title>
+	<link href='https://fonts.googleapis.com/css?family=Open+Sans:400,300,600' rel='stylesheet' type='text/css'>
+    <link rel='shortcut icon' type='image/x-icon' href='../favicon.ico' />
+    <link href="../Content/site.css" rel="stylesheet"/>
+<link href="../Content/960sheet.css" rel="stylesheet"/>
+<link href="../Content/768sheet.css" rel="stylesheet"/>
+<link href="../Content/640sheet.css" rel="stylesheet"/>
+<link href="../Content/480sheet.css" rel="stylesheet"/>
+
+    
+</head>
+<body>
+    
+	<div id="header">
+	<div id="headerContent">
+		<div id="headerLogo"><a href="../index.html#top">
+			<img src="../Content/Images/header-logo.png" alt="" /></a></div>
+		<div class="navMenu">
+			<div class="mobileIcon">
+                <div class="menuBar menuBarTop"></div>
+                <div class="menuBar menuBarMiddle"></div>
+                <div class="menuBar menuBarBottom"></div>
+			</div>
+			<ul id="navMenuList">
+				<li><a class="pageNav" href="../index.html#what">What We Do</a></li>
+				<li><a class="pageNav" href="../index.html#why">Why Us</a></li>
+				
+				<li><a class="pageNav" href="../index.html#about">About Us</a></li>
+				<li><a  href="../Careers.1">Careers</a></li>
+				<li><a class="pageNav" href="../index.html#contact">Contact</a></li>
+				<a target="_blank" href="https://www.facebook.com/AltSource"><img class="navSocial" id="socialIconOne" src="../Content/Images/fb-nav.png"/></a>
+				<a target="_blank" href="https://twitter.com/altsourceinc"><img class="navSocial" src="../Content/Images/twitter-nav.png"/></a>
+				<a target="_blank" href="http://www.linkedin.com/company/altsource-inc"><img class="navSocial" src="../Content/Images/linkedin-nav.png"/></a>
+			</ul>
+		</div>
+	</div>
+</div>
+<div class="navMenuMobile">
+	<ul>
+		<li><a class="pageNav" href="../index.html#what">What We Do</a></li>
+		<li><a class="pageNav" href="../index.html#why">Why Us</a></li>
+		
+		<li><a class="pageNav" href="../index.html#about">About Us</a></li>
+		<li><a href="../Careers.1">Careers</a></li>
+		<li><a class="pageNav" href="../index.html#contact">Contact</a></li>
+	</ul>
+</div>
+
+
+    
+<div id="careers">
+
+	<div class="sectionTextCenterJob">
+		<p>
+			<span class="sectionTextHeadlineCareer">Enterprise Software Architect</span>
+	</div>
+
+	<div class="sectionTextJob">
+		<p>
+			AltSource, Inc. is a successful and rapidly growing custom software development company located in SE 
+			Portland. We've been building enterprise systems since 2004 and are currently seeking a smart and qualified 
+			Enterprise Software Architect to join our team and help drive application design and implementation using 
+			Microsoft-centric technologies. We have deep domain knowledge in our application space, and our solutions 
+			make a daily positive impact on people's lives. 
+		</p>
+
+		<p>
+			We provide custom business software in a unique and challenging domain, and we're looking for a long-term, 
+			experienced developer who will learn the business and ultimately help shape our offerings at all levels. 
+			The ideal candidate has enterprise software design and development knowledge as well experience being heavily 
+			involved in the full software development life cycle using Agile/Scrum methodology. 
+		</p>
+	
+		<p><span class="careerHeadline">Responsibilities:</span><br>
+		</p>
+		<ul id="jobList">
+			<li>Develop and implement technical standards used by the team to ensure that system design follows industry best practices.</li>
+			<li>Provide architectural recommendations to internal and external teams.</li>
+			<li>Provide guidance in software system architecture and more detailed software design to other developers.</li>
+			<li>Guide teams through architectural development process and collaborate with developers to coordinate the efforts of development.</li>
+			<li>Work with developers and data team to evaluate system structure, database design, interface design and operational and performance requirements.</li>
+			<li>In collaboration with other developers, architect, design and develop user interface, service and data tier components for complex applications.</li>
+			<li>Create and maintain formal documentation including technical designs, development plans, implementation plans, and release notes.</li>
+			<li>Work closely with clients and non-technical team members to understand goals and product vision.</li>
+			<li>Bring real world practical experience to apply theories of software architecture to the problems at hand.</li>
+		</ul>
+
+		<p><span class="careerHeadline">We want to work with you if:</span><br>
+		</p>
+		<ul id="jobList">
+			<li>You are a self starter who is passionate about solving problems with software.</li>  
+			<li>You have an understanding of software development from feature request to support.</li>
+			<li>You have strong opinions on how things should be built, yet are flexible in achieving solutions.</li>
+			<li>You want to make an impact and not just be a cog in the development machine.</li>
+			<li>You are a creative problem solver who is able to transform multiple conflicting needs into a great solution.</li> 
+		</ul>
+
+		<p><span class="careerHeadline">Requirements:</span><br>
+		</p>
+		<ul id="jobList">
+			<li>B.S. in Computer Science or related field.</li>
+			<li>7+ years related work experience.</li>
+			<li>Solid understanding of the application of current technologies to business problems.</li>
+			<li>Excellent knowledge of service oriented architecture (SOA) principles and web standards.</li>
+			<li>Strong knowledge of software design principles and patterns.</li>
+			<li>Solid skills in modern object-oriented programming languages and enterprise design patterns.</li>
+			<li>Demonstrated ability to lead development projects and make decisions effectively.</li>
+			<li>Comfortable in a fast-paced, Agile environment.</li>
+			<li>Flexibility with tools and tech stack.</li>
+		</ul>
+
+	</div>
+</div>
+<div id="careerFooterText">
+		<p>To apply, please e-mail your cover letter and resume to <a href="mailto:join@altsrc.net">join@altsrc.net</a>. 
+		To learn more about us, please visit our web site at <a href="../index.html" rel="nofollow">www.altsrc.net</a> or Facebook page at 
+		<a href="https://www.facebook.com/AltSource" rel="nofollow">www.facebook.com/AltSource</a>.
+		</p>	
+	</div>
+<div><a class="buttonTalkCareer" href="../Careers.1">Back to Careers</a></div>
+
+<script>
+    document.querySelector(".mobileIcon").addEventListener("click", function () {
+        this.classList.toggle("active");
+    });
+</script>
+    <div class="subFooter">
+        <a target="_blank" href="http://www.portlandoregon.gov/sustainabilityatwork/article/522468"><img src="../Content/Images/pdx-sustainablity.jpg" alt="" /></a>
+    </div>
+    <div class="cb"></div>
+    <div id="footer">
+        <a href="../index.html">www.altsrc.net</a>   |   <a class="phoneMobile" href="tel:971-373-8449">971-373-8449</a><span class="phone">971-373-8449</span>   |   <a href="mailto:info@altsrc.net">info@altsrc.net</a>   |   <a target="_blank" href="https://maps.google.com/maps?q=Altsource+Inc,+Southeast+10th+Avenue,+Portland,+OR&hl=en&ll=45.505685,-122.65156&spn=0.016948,0.019827&sll=45.505685,-122.656002&sspn=0.016948,0.010943&oq=AltSource,+Inc.&t=m&z=16&iwloc=A">
+            2407 SE 10th Ave Portland,
+            OR 97214
+        </a><br>
+        <span id="copyright">Copyright © 2014 AltSource - All rights reserved</span>
+    </div>
+
+    <script src="../Scripts/jquery-1.11.0.js"></script>
+
+    <script type="text/javascript">
+        $(function () {
+            //mobile menu
+            $('.mobileIcon').click(function () {
+                $(".navMenuMobile").toggle("200", "swing");
+                //$(this).toggleClass("visable");
+            });
+        });
+
+    </script>
+    <script>
+        (function (i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date(); a = s.createElement(o),
+			m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+        ga('create', 'UA-49684904-1', 'altsrc.net');
+        ga('send', 'pageview');
+
+    </script>
+
+    
+
+</body>
+</html>

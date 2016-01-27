@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+	<META http-equiv="X-UA-Compatible" content="IE=10">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+	<meta name="description" content="AltSource is a driven software development team focused on delivering custom business applications of exceptional quality across any enterprise."/>
+	<meta name="keywords" content="Software, Portland, Portland Oregon, Custom Software, Enterprise Software, Software Solutions, Software Development Services; Custom Software Development Services; Custom Software Programming Services, Programming Services" />
+	
+    <title>AltSource Careers | SQL Server Development DBA</title>
+	<link href='https://fonts.googleapis.com/css?family=Open+Sans:400,300,600' rel='stylesheet' type='text/css'>
+    <link rel='shortcut icon' type='image/x-icon' href='../favicon.ico' />
+    <link href="../Content/site.css" rel="stylesheet"/>
+<link href="../Content/960sheet.css" rel="stylesheet"/>
+<link href="../Content/768sheet.css" rel="stylesheet"/>
+<link href="../Content/640sheet.css" rel="stylesheet"/>
+<link href="../Content/480sheet.css" rel="stylesheet"/>
+
+    
+</head>
+<body>
+    
+	<div id="header">
+	<div id="headerContent">
+		<div id="headerLogo"><a href="../index.html#top">
+			<img src="../Content/Images/header-logo.png" alt="" /></a></div>
+		<div class="navMenu">
+			<div class="mobileIcon">
+                <div class="menuBar menuBarTop"></div>
+                <div class="menuBar menuBarMiddle"></div>
+                <div class="menuBar menuBarBottom"></div>
+			</div>
+			<ul id="navMenuList">
+				<li><a class="pageNav" href="../index.html#what">What We Do</a></li>
+				<li><a class="pageNav" href="../index.html#why">Why Us</a></li>
+				
+				<li><a class="pageNav" href="../index.html#about">About Us</a></li>
+				<li><a  href="../Careers.1">Careers</a></li>
+				<li><a class="pageNav" href="../index.html#contact">Contact</a></li>
+				<a target="_blank" href="https://www.facebook.com/AltSource"><img class="navSocial" id="socialIconOne" src="../Content/Images/fb-nav.png"/></a>
+				<a target="_blank" href="https://twitter.com/altsourceinc"><img class="navSocial" src="../Content/Images/twitter-nav.png"/></a>
+				<a target="_blank" href="http://www.linkedin.com/company/altsource-inc"><img class="navSocial" src="../Content/Images/linkedin-nav.png"/></a>
+			</ul>
+		</div>
+	</div>
+</div>
+<div class="navMenuMobile">
+	<ul>
+		<li><a class="pageNav" href="../index.html#what">What We Do</a></li>
+		<li><a class="pageNav" href="../index.html#why">Why Us</a></li>
+		
+		<li><a class="pageNav" href="../index.html#about">About Us</a></li>
+		<li><a href="../Careers.1">Careers</a></li>
+		<li><a class="pageNav" href="../index.html#contact">Contact</a></li>
+	</ul>
+</div>
+
+
+    
+<div id="careers">
+
+	<div class="sectionTextCenterJob">
+		<p>
+			<span class="sectionTextHeadlineCareer">SQL Server Development DBA</span>
+	</div>
+
+	<div class="sectionTextJob">
+		<p>
+			AltSource, Inc. is a successful and rapidly growing custom software development company located in SE Portland.
+			We've been building enterprise systems since 2004 and are always on the lookout for smart and qualified people
+			to join our team and help drive application design and implementation using Microsoft-centric technologies.
+			We have deep domain knowledge in our application space, and our solutions make a daily positive impact on people's lives.
+		</p>
+
+		<p>
+			We currently have an opening for a mid-to-senior level DBA to join the in-house database team.
+		</p>
+
+		<p>
+			This position is development-focused with the primary role being to work directly with application development teams
+			during application feature development, release and support. In addition, this position will work directly with the data
+			architecture team to ensure ongoing development activities align with long-term enterprise goals.
+		</p>
+
+		<p>
+			This position is best suited for someone able to embrace an agile-focused approach to development and an eagerness to
+			interact and collaborate directly with development teams on a daily basis while providing hands on database support and
+			guidance to developers and operations.
+		</p>
+
+		<p>
+			This position includes assisting the operations team and production DBAs where needed of in-house and client database
+			servers as well as keeping systems tuned and performing at optimal performance levels. Platforms include Microsoft SQL
+			Server 2008, 2012, 2014, .NET, Windows Servers (2008/2012), Virtual environments (VMWare/Hyper-V) and bare metal servers.
+		</p>
+
+		<p><span class="careerHeadline">Responsibilities:</span><br>
+		</p>
+		<ul id="jobList">
+			<li>Assist development teams in the build out of schema and database technologies</li>
+			<li>Ensure use of best practices for data-driven applications within development teams</li>
+			<li>Review and optimize application data access strategies</li>
+			<li>Enforce database quality standards within the code base</li>
+			<li>Support and build out development and QA database environments</li>
+			<li>Build out and maintain reporting services and integration services applications</li>
+			<li>Mentor developers and product owners on database patterns</li>
+			<li>Prepare scripts for deployment and automation</li>
+			<li>Create, implement and maintain policies and procedures regarding data security/access, retention/destruction, and backup recovery functions</li>
+			<li>Monitor hardware, software, storage and performance of database servers</li>
+			<li>Tune and configure database servers for best sustainable performance</li>
+			<li>Support architecture team in long-term planning and implementation</li>
+			<li>Support after-hours and on-call duties as required</li>
+			<li>Support operations and support teams and assist with troubleshooting activities as needed</li>
+			<li>Continue to develop your skills in database optimization, data integrity, and other DBA duties as a member of an agile software team</li>
+		</ul>
+
+	
+		<p><span class="careerHeadline">We want to work with you if:</span><br>
+		</p>
+		<ul id="jobList">
+			<li>You can visualize the big picture and analyze key issues and recommend effective solutions.</li>
+			<li>You can create and maintain processes in line with requirements for project goals.</li>
+			<li>You have strong opinions on how things should be built, yet are flexible in achieving solutions.</li>
+			<li>You work well in an agile team environment where process and schedules can change quickly.</li>
+			<li>You want to make an impact and not just be a cog in the machine.</li>
+			<li>You are a smart, creative, proactive problem solver.</li>
+		</ul>
+
+	
+		<p><span class="careerHeadline">Requirements:</span><br>
+		</p>
+		<ul id="jobList">
+			<li>B.S. in Computer Science, Management Information Systems or related field</li>
+			<li>5+ years experience as a SQL Server DBA</li>
+			<li>Experience working with platforms listed above</li>
+			<li>Strong knowledge of T-SQL programming language</li>
+			<li>Solid understanding of transactional (OLTP) workload fundamentals</li>
+			<li>Extensive knowledge of SQL Server internals and best practices for highly concurrent systems</li>
+			<li>High level of proficiency in database design fundamentals for e-commerce, CRM and Inventory management systems a plus</li>
+			<li>Working knowledge and experience developing and deploying SSRS reports</li>
+			<li>Experienced with source control applications (SVN, TFS, GIT, etc.)</li>
+			<li>Knowledge of C# and .Net web technologies a big plus</li>
+			<li>Experience with Visual Studio 2013+</li>
+			<li>Exposure to Azure cloud technologies a plus</li>
+			<li>Experience working with PowerShell a plus</li>
+			<li>Experience with large and very large RDBMS a plus</li>
+			<li>A great team attitude and the desire to work with a small group of your peers, without hierarchy or politics.</li> 
+		</ul>
+
+	</div>
+</div>
+<div id="careerFooterText">
+		<p>To apply, please e-mail your cover letter and resume to <a href="mailto:join@altsrc.net">join@altsrc.net</a>. 
+		To learn more about us, please visit our web site at <a href="../index.html" rel="nofollow">www.altsrc.net</a> or Facebook page at 
+		<a href="https://www.facebook.com/AltSource" rel="nofollow">www.facebook.com/AltSource</a>.
+		</p>	
+	</div>
+<div><a class="buttonTalkCareer" href="../Careers.1">Back to Careers</a></div>
+
+<script>
+    document.querySelector(".mobileIcon").addEventListener("click", function () {
+        this.classList.toggle("active");
+    });
+</script>
+    <div class="subFooter">
+        <a target="_blank" href="http://www.portlandoregon.gov/sustainabilityatwork/article/522468"><img src="../Content/Images/pdx-sustainablity.jpg" alt="" /></a>
+    </div>
+    <div class="cb"></div>
+    <div id="footer">
+        <a href="../index.html">www.altsrc.net</a>   |   <a class="phoneMobile" href="tel:971-373-8449">971-373-8449</a><span class="phone">971-373-8449</span>   |   <a href="mailto:info@altsrc.net">info@altsrc.net</a>   |   <a target="_blank" href="https://maps.google.com/maps?q=Altsource+Inc,+Southeast+10th+Avenue,+Portland,+OR&hl=en&ll=45.505685,-122.65156&spn=0.016948,0.019827&sll=45.505685,-122.656002&sspn=0.016948,0.010943&oq=AltSource,+Inc.&t=m&z=16&iwloc=A">
+            2407 SE 10th Ave Portland,
+            OR 97214
+        </a><br>
+        <span id="copyright">Copyright © 2014 AltSource - All rights reserved</span>
+    </div>
+
+    <script src="../Scripts/jquery-1.11.0.js"></script>
+
+    <script type="text/javascript">
+        $(function () {
+            //mobile menu
+            $('.mobileIcon').click(function () {
+                $(".navMenuMobile").toggle("200", "swing");
+                //$(this).toggleClass("visable");
+            });
+        });
+
+    </script>
+    <script>
+        (function (i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date(); a = s.createElement(o),
+			m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+        ga('create', 'UA-49684904-1', 'altsrc.net');
+        ga('send', 'pageview');
+
+    </script>
+
+    
+
+</body>
+</html>

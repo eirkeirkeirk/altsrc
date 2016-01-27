@@ -1,0 +1,106 @@
+﻿@charset "utf-8";
+/* CSS Document */
+
+@media screen and (max-width: 768px) {
+
+	@-ms-viewport{width: 768px;}
+
+/* ------------------Menu ------------------  */	
+	#header {height: 54px;position: static;}
+	#header.large {height: 54px;}
+	#headerContent {max-width: 960px;padding: 8px 10px 0 10px;margin: 0 auto 0 auto;}
+	#headerLogo {float: left;width: 15%;}
+    #headerLogo img {
+        height: 40px;
+        padding: 0 10px 0px 10px;
+        -moz-transition: height 0.5s, margin 0.5s;
+        -o-transition: height 0.5s, margin 0.5s;
+        -webkit-transition: height 0.5s, margin 0.5s;
+        transition: height 0.5s, margin 0.5s;
+    }
+    #header.large #headerLogo img {height: 40px;padding: 0 10px 0 10px;margin-top: 0;}
+	#header.large .navMenu {margin-top: 13px;}
+	.buttonTalksSlideBox {padding-top: 80px;width:300px;}
+	.slideText {font-size: 1.5em;}
+		
+
+/* ------------------ Mobile Nav Menu ------------------  */
+	.mobileIcon {display: inline-block;margin-top: -10px;}
+	#navMenuList{display:none;}
+
+
+	/* ------------------Slideshow ------------------  */
+	.slideshow {min-height: 250px;background-size:auto 100%;margin-top:0;}
+
+
+	/* ------------------Info Bar ------------------  */
+	.infoBarText {font-size: 1.3em;}
+
+
+	/* ------------------What We Do ------------------  */
+	.headline,.headlineCareer {border: none;}
+	.headlineText {font-size: 1.4em;width: 100%;}
+	.headlineTextWhat {font-size: 1.4em;width: 100%;}
+	.sectionText {padding-top: 20px;}
+	.divider {height: 255px;line-height: 255px;font-size: 1.3em;}
+	.whatCardsBox{width: 95%;margin: -15px auto 54px auto;}
+	#talkWhy{margin-top:-50px;}
+    .whatButton {font-size: .8em;}
+
+
+	/* ------------------Why AltSource ------------------  */
+	.whyButton {font-size: .9em;padding: 14px 5px 13px 10px;text-align: center;}
+	#whyFlipBox {max-width: 768px;min-height: 231px;}
+	.whyFlipTextBox {font-size: .9em;}
+	.whyFlipText {height: 260px;}
+	.whyIcon {display: none;}
+
+
+   /* ------------------ Solutions ------------------  */
+    .solutionSlide .text{width:53%;}
+    #solution1 .solutionImg img {width:249px}
+	
+
+	/* ------------------About Us ------------------  */
+	.teamTabs {max-width: 498px;}
+	.aboutButton {font-size: .7em;min-width: 25px;padding:10px 5px;}
+	.leaderBox {width: 100%;float: none;margin:30px 0 0 0;}
+
+
+	/* ------------------Contact ------------------  */
+	#contact{height:auto;}
+	#contactLeft {float: none;width: 100%;}
+	#formSubmit {margin-right: 20px;}
+	#contactRight {float: none;width: 200px;margin: -50px 50px 20px 45px;}
+	.phone{display:none;}
+	.phoneMobile{display:inline;text-decoration:none;}
+	#buttonEmail {margin-bottom: 20px;}
+    .commuteToolTip{width:241px;}
+    
+    
+/* ------------------Footer ------------------  */	
+    #footer {margin-top: 0;}
+    .subFooter{margin:60px 0 10px 0;text-align:center;}
+
+
+	/* ------------------Careers ------------------  */
+	#sliderContainer {margin: 0px;}
+	.sectionTextHeadlineCareer {line-height: 1.5;}
+    .sectionTextCenterJob {margin: 10px auto 0 auto;}
+	#benifitsBox {width: 350px;}
+	.benifitsColumn {float: none;}
+	#careerEvents {width: 100%;margin: 40px auto 0 auto;}
+	#careerEventsText {width: 220px;float: none;margin: 40px auto 0 auto;}
+	#careerEventsImage {display: none;}
+    #slideshow {min-height: 200px;}
+
+
+	/* ------------------Special Invitation ------------------  */
+	#specialInvitation {width: 100%;}
+
+
+	/* ------------------ Sales ------------------  */
+	.busText {width:68%;padding-top:0;}
+	#sectionTextCenterBusiness {padding: 20px 40px 0 40px;}
+
+}

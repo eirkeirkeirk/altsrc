@@ -1,0 +1,24 @@
+﻿@charset "utf-8";
+/* CSS Document */
+@media screen and (max-width: 960px) {
+	@-ms-viewport {width: 960px}
+	.navMenu li a {padding: 5px 10px 5px 5px;}
+	.navSocial{margin-bottom:-5px;padding-left:0;}
+	#socialIconOne{padding-left:5px;}
+	#slideshow {min-height: 250px;}
+	#solutionsBox {max-width: 640px;}
+	.leaderText {width: 90%;float: none;}
+	.blueStaffInner {max-width: 880px;}
+	.allStaffInner {max-width: 860px;}
+	#sliderContainer {margin: 0 0 -10px 0;}
+}
+
+@media screen and (max-width: 900px) {
+    #processFloat { max-width: 423px;}
+    .processArrow{display:none;}
+    .processItem{margin: 0 10px;}
+    
+    .solutionSlide{margin:0 35px;}
+    .solutionArrowPrevious {left:10px;}
+    .solutionArrowNext {right:10px;}
+}

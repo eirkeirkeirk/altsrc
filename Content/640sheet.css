@@ -1,0 +1,37 @@
+﻿@charset "utf-8";
+/* CSS Document */
+@media screen and (max-width: 640px){
+
+	@-ms-viewport {width: 640px}
+	#slideshow {min-height: 175px;}
+	#whatCardBG {display: none;}
+	#whatCard {width: 100%;min-height:150px;}
+	.whatButton {font-size: .72em;padding:10px;}
+	.whatCardsBox{width: 94%;}
+	.whatTextBox {width: 100%;}
+	.whyButton {font-size: .8em;}
+	#solutionsBox {max-width: 310px;}
+	.teamIcon {display: none;}
+    .teamTabs {max-width: 95%;}
+	.aboutButton {padding: 10px 5px;font-size: .9em;max-width:95%;float:none;}
+	#inviteText{padding:0 30px 30px 30px;}
+	#inviteBorder {padding:15px;}
+
+
+    /* ------------------ Solutions ------------------  */
+    .solutionSlide {height:0;}
+    .solutionSlide.visible {height:auto;}
+    .solutionSlide .text{width:100%; position:relative;}
+    .solutionImg {width:100%; position:relative; text-align:center;}
+    #solution1.visible .solutionImg, #solution2.visible .solutionImg, #solution3.visible .solutionImg {top:auto; margin:60px 0 20px 0;}
+
+
+	/* ------------------ Sales ------------------  */
+    .BusinessSectionText {padding: 0 40px 0 40px;}
+    .busHeaderBox{width:100%;text-align: center;padding-top:20px;}
+    .busStaffBox{background-color:#027c94;width:92%;padding:20px;margin: 20px 0;text-align:center;}
+    .busImg{float: none;padding:0 0 10px 0;}
+    .busText {width:100%;padding:0}
+
+}
+
