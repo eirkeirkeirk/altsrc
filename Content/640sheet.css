@@ -12,8 +12,9 @@
 	.whyButton {font-size: .8em;}
 	#solutionsBox {max-width: 310px;}
 	.teamIcon {display: none;}
-    .teamTabs {max-width: 95%;}
-	.aboutButton {padding: 10px 5px;font-size: .9em;max-width:95%;float:none;}
+  .teamTabs {float:none;max-width: 95%;}
+  .navBox {float:none;position:static;margin-left:auto;}
+	.aboutButton {margin-right:0px;padding: 10px 5px;font-size: .9em;float:none;position:static;}
 	#inviteText{padding:0 30px 30px 30px;}
 	#inviteBorder {padding:15px;}
 

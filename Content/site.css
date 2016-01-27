@@ -279,32 +279,27 @@ img {-moz-transform: translate3d(0, 0, 0);-ms-transform: translate3d(0, 0, 0);-o
 /* ------------------ About ------------------  */
 #teams{min-height:470px;clear: both}
 .teamTabs {
-    margin: 20px auto 0 auto;
-    max-width: 768px;
-    height: 100%;
-    overflow:hidden;
-    text-align: center;
-}
-.teamTabs:after {
-  content: "";
-  display: table;
-  clear: both;
+    margin: 20px auto 0;
+    float: left;
+    width: 100%;
+    overflow: hidden;
+    position: relative;
 }
 .navBox {
-    /*margin: 0px auto;*/
-    /*max-width: 300px;*/
-    /*padding: auto;*/
-    /*display: inline;*/
-    /*text-align: center;*/
-}
-.navBox:after {
-  content: "";
-  display: table;
-  clear: both;
+    clear: left;
+    float: left;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    position: relative;
+    left: 50%;
+    text-align: center;
 }
 .aboutButton {
+    display: block;
 	float: left;
-    /*display: inline;*/
+    position: relative;
+    right: 50%;
 	border-left: thin solid #a9a9a9;
 	border-top: thin solid #a9a9a9;
 	border-right: thin solid #a9a9a9;
@@ -328,7 +323,7 @@ img {-moz-transform: translate3d(0, 0, 0);-ms-transform: translate3d(0, 0, 0);-o
 #aboutCompany {background: url(Images/aboutBG.jpg);background-size:cover;overflow: hidden;padding:10px 30px;}
 #aboutTitle{text-align:center;}
 .staffPicSm{height:50px;width:50px;margin:20px 10px 10px 0;background: url(Images/staff-sprite-sm.jpg);overflow: hidden;float:left;}
-.teamLeft{padding:30px 0 40px 0;border-top:1px solid #a9a9a9;overflow:hidden;}
+.teamLeft{padding:30px 0 40px 0;border-top:1px solid #a9a9a9;overflow:hidden;clear:both;}
 #buttonTalkAbout {
 	display: block;
 	width: 130px;

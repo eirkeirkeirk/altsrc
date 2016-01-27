@@ -5,7 +5,7 @@
 
 	@-ms-viewport{width: 768px;}
 
-/* ------------------Menu ------------------  */	
+/* ------------------Menu ------------------  */
 	#header {height: 54px;position: static;}
 	#header.large {height: 54px;}
 	#headerContent {max-width: 960px;padding: 8px 10px 0 10px;margin: 0 auto 0 auto;}
@@ -22,7 +22,7 @@
 	#header.large .navMenu {margin-top: 13px;}
 	.buttonTalksSlideBox {padding-top: 80px;width:300px;}
 	.slideText {font-size: 1.5em;}
-		
+
 
 /* ------------------ Mobile Nav Menu ------------------  */
 	.mobileIcon {display: inline-block;margin-top: -10px;}
@@ -59,10 +59,10 @@
    /* ------------------ Solutions ------------------  */
     .solutionSlide .text{width:53%;}
     #solution1 .solutionImg img {width:249px}
-	
+
 
 	/* ------------------About Us ------------------  */
-	.teamTabs {max-width: 498px;}
+	/*.teamTabs {max-width: 498px;}*/
 	.aboutButton {font-size: .7em;min-width: 25px;padding:10px 5px;}
 	.leaderBox {width: 100%;float: none;margin:30px 0 0 0;}
 
@@ -76,9 +76,9 @@
 	.phoneMobile{display:inline;text-decoration:none;}
 	#buttonEmail {margin-bottom: 20px;}
     .commuteToolTip{width:241px;}
-    
-    
-/* ------------------Footer ------------------  */	
+
+
+/* ------------------Footer ------------------  */
     #footer {margin-top: 0;}
     .subFooter{margin:60px 0 10px 0;text-align:center;}
 
